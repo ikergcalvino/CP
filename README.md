@@ -1,4 +1,4 @@
-# CP
+# Concurrencia y Paralelismo
 
 Prácticas Concurrencia y Paralelismo (curso 2020/21)
 
